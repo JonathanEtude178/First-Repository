@@ -1,0 +1,49 @@
+.infos_perso {
+    display: flex;
+    flex-direction: column;
+}
+
+.nom {
+    color:brown;
+}
+
+.age {
+    color:rgb(41, 4, 76);
+    justify-content: center;
+    display:flex;
+}
+
+
+.adresse {
+   color:rgb(196, 14, 14);
+}
+
+.ecole {
+   color:rgba(34, 1, 77, 0.867);
+   display: flex;
+   justify-content: center;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    color:rgb(5, 5, 80);
+}
+
+.bts {
+    display: flex;
+    justify-content: center;
+    color:rgb(5, 5, 88);
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
+
